@@ -18,4 +18,4 @@ Together we can create a Mr. Potato Head using GitHub!
 ##Remember: **Fork, Change, Push, Pull**
 
 ##Bonus:
-Create a button the sits below Mr. Potato Head that when it is clicked your body part will show and hide.
+Create a button that sits below Mr. Potato Head. When it is clicked, your body part will show and hide.
