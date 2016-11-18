@@ -54,4 +54,4 @@ From your GitHub create a "New Pull Request" (the green button) to send your cha
 
 ### Bonus
 
-1. Try to create a button the sits below Mr. Potato Head that when it is clicked your body part will show or hide.
+1. Create a button that sits below Mr. Potato Head that when it is clicked your body part will show or hide.
