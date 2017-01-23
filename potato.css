@@ -56,7 +56,10 @@ h1 {
 
 
 
-/* Insert CSS for stunner shades below this line*/
+#stunner_shades_image{
+ top: 100px;
+ left: 100px;
+}
 
 
 
